@@ -14,3 +14,34 @@ The course covers a wide range of practical areas using Python, including:
 - 🖥 GUI Desktop Applications
 - 📦 APIs & Databases
 - 🌍 Web Scraping
+
+Each day includes hands-on practice and a mini project to build a solid and versatile portfolio.
+
+### 🐍 Python & Core Tools
+- Python 3
+- PyCharm, Jupyter Notebook, Google Colab
+- Git, GitHub, Command Line (Bash)
+
+### 🔧 Automation & Web
+- Selenium
+- Beautiful Soup
+- Request
+- Flask
+- HTML5, CSS3, Bootstrap
+
+### 📊 Data & Visualization
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
+- Scikit-learn
+
+### 🕹 Game & GUI
+- Turtle
+- Tkinter
+
+### 🗄 Databases
+- SQLite
+- PostgreSQL
+- SQL basics
