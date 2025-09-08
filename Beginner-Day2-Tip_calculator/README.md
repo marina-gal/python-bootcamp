@@ -10,4 +10,5 @@ Applied concepts:
     round() function
     Formatted strings (f-strings)
 
-<img width="667" height="175" alt="image" src="https://github.com/user-attachments/assets/0170acb1-bb18-46b9-80a8-6e05a2647aed" />
+<img width="659" height="238" alt="image" src="https://github.com/user-attachments/assets/f6b2ca33-b1ab-4c44-a23f-b4139d8a8b12" />
+
