@@ -1,7 +1,7 @@
 # python-bootcamp
 My personal projects from **The Complete Python Pro Bootcamp** by Dr.Angela Yu (Udemy).
 
-## Objective
+## 🎯 Objective
 Learn Python from scratch to an advanced level by applying it to real projects.
 
 ## 📚 About the course
