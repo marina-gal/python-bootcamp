@@ -11,7 +11,7 @@ Applied concepts:
     string concatenation
     special characters as '\n'
 
-    <img width="776" height="277" alt="Capture d'écran 2025-09-08 120637" src="https://github.com/user-attachments/assets/36f403fc-008e-46e6-a79d-3a46c9451498" />
 
+<img width="769" height="262" alt="Capture d'écran 2025-09-08 130150" src="https://github.com/user-attachments/assets/3d586656-fe15-4766-bbee-7892c0d63488" />
 
     
