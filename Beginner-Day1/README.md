@@ -7,6 +7,7 @@ Applied concepts:
 - print()
 - input()
 - len()
+- variables
 - string concatenation
 - special characters as '\n'
 
