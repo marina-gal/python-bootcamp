@@ -7,3 +7,5 @@ A simple Python program that calculates how much each person should pay when spl
     Percentages
     round() function
     Formatted strings (f-strings)
+
+<img width="667" height="175" alt="image" src="https://github.com/user-attachments/assets/0170acb1-bb18-46b9-80a8-6e05a2647aed" />
