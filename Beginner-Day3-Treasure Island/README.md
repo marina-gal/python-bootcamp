@@ -8,6 +8,7 @@ A mini text adventure game where the player makes decisions to find the treasure
 <img width="965" height="466" alt="image" src="https://github.com/user-attachments/assets/19e48ef3-5185-4cd2-9875-1b858731f6b6" />
 
 Applied concepts:
-if, elif, else
-.lower()
-Nested conditionals
+
+    if, elif, else
+    .lower()
+    Nested conditionals
