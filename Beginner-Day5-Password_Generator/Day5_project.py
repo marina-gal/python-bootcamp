@@ -21,7 +21,7 @@ for char in range(0,nr_numbers):
 
 print(f"Your password is: {password}")
 
-# 2nd option
+# Second option
 password_list = [] # Starting with a list
 for char in range(0,nr_letters): # Depending on the number of letters the user chooses, it creates a range of this size. As it is a loop, it randomly chooses n times inside the concerned list.
     password_list.append(random.choice(letters)) # Instead of concatenate the string, as it is a list, we "append" characters to a list: password_list
